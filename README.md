@@ -1,6 +1,6 @@
 # repartidor
 
-A new Flutter project.
+App de repartidor de Pizzeria Don Mario.
 
 ## Getting Started
 
